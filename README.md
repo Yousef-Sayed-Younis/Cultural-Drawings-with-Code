@@ -31,15 +31,19 @@ This repository showcases drawings created using Python’s `turtle` module. The
 > **Click on the image to view the corresponding code!**
 ### Palestine
 <div>
-<a href=""><img src="https://github.com/user-attachments/assets/d89a44b7-f1a9-48e2-98eb-2100cdb430dd" width="400" title="Why Do I See You In Everything"></a>
+<a href="https://github.com/Yousef-Sayed-Younis/Cultural-Drawings-with-Code/blob/main/why_do_i_see_you_in_everything.py">
+<img src="https://github.com/user-attachments/assets/d89a44b7-f1a9-48e2-98eb-2100cdb430dd" width="400" title="Why Do I See You In Everything"></a>
 
-<img src="https://github.com/user-attachments/assets/d7363871-59a5-4fc6-a85b-db77d4696436" width="400" title="Gaza Under Attck">
+<a href="https://github.com/Yousef-Sayed-Younis/Cultural-Drawings-with-Code/blob/main/gaza_under_attack.py">
+<img src="https://github.com/user-attachments/assets/d7363871-59a5-4fc6-a85b-db77d4696436" width="400" title="Gaza Under Attck"></a>
 </div>
 
 ### Ramadan
-<a href=""><img src="https://github.com/user-attachments/assets/1c531ce5-d912-4061-a204-fd9dda75cfd4" width="400" title="Ramadan"></a>
+<a href="https://github.com/Yousef-Sayed-Younis/Cultural-Drawings-with-Code/blob/main/ramadan.py">
+<img src="https://github.com/user-attachments/assets/1c531ce5-d912-4061-a204-fd9dda75cfd4" width="400" title="Ramadan"></a>
 
 ### Eid al-Adha
-<img src="https://github.com/user-attachments/assets/1212a103-6502-4618-b99f-c3f789e6d498" width="400" title="Eid al-Adha">
+<a href="https://github.com/Yousef-Sayed-Younis/Cultural-Drawings-with-Code/blob/main/eid_al_adha.py">
+<img src="https://github.com/user-attachments/assets/1212a103-6502-4618-b99f-c3f789e6d498" width="400" title="Eid al-Adha"></a>
 
 
