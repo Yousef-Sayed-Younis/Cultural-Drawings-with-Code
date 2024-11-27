@@ -22,7 +22,7 @@ This repository showcases drawings created using Python’s `turtle` module. The
   ```
 
 ## Art Categories
-- Palestine: A series of drawings symbolizing the beauty and culture of Palestine.
+- Palestine: A series of drawings created to support the Palestinian cause amidst ongoing aggression.
 - Ramadan: Artistic representations of the holy month of Ramadan.
 - Eid al-Adha: Celebrating the spirit of Eid al-Adha with visual representations.
 
