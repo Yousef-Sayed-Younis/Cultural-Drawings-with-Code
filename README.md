@@ -28,6 +28,7 @@ This repository showcases drawings created using Python’s `turtle` module. The
 - Eid al-Adha: Celebrating the spirit of Eid al-Adha with visual representations.
 
 ## Example Drawings
+> [!NOTE]
 > **Click on the image to view the corresponding code!**
 ### Palestine
 <div>
